@@ -1,0 +1,30 @@
+
+
+
+
+
+
+nav{
+    list-style: none;
+    color: black;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+nav{
+    background-color: rgb(143, 136, 136);
+    display: flex;
+}
+a{
+    list-style-type: none;
+}
+
+/*clase*/
+.flex{
+    display: flex;
+    flex-direction: row;
+}
